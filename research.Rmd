@@ -1,5 +1,8 @@
 ---
 title: "Research"
 ---
+<<<<<<< HEAD
 
 reserch
+=======
+>>>>>>> 86912c7c0f58a3cc0718d1b70bf61a7c73dae081
