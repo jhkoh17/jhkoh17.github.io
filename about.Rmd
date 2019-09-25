@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Me~1
+About me
