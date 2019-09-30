@@ -1,6 +1,3 @@
----
-title: "Home"
----
 
 
 ![](Jung_Koh.jpg)
