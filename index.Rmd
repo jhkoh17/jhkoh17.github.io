@@ -1,3 +1,10 @@
+---
+title: "Jung Hwan Koh"
+output:
+  html_document:
+    includes:
+      in_header: cover.html
+---
 
 
 ![](Jung_Koh.jpg)
