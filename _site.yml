@@ -13,7 +13,6 @@ navbar:
       href: teaching.html
     -  
       
-      
 output:
   html_document:
     theme: readable
