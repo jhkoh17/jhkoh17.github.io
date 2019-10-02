@@ -3,7 +3,7 @@ title: "Jung Hwan Koh"
 ---
 
 
-![](JHKoh.jpg)
+![](JHKoh.jpg){height=50%,width=50%}
 
 Welcome! I am a Ph.D canndidate in [Department of Resource Economics](http://www.umass.edu/resec/) at [the University of Masschessute Amerhst](https://www.umass.edu/).
 
