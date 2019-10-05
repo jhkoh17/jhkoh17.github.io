@@ -3,10 +3,10 @@ title: "Teaching"
 ---
 
 ## Instructor 
-### Operations and Information Management in UMass Amerhst
+### Operations and Information Management at UMass Amerhst
 - Business Data Analysis (OIM 240): Fall 2019, Spring 2020
 
-### Resource Economics in UMass Amerhst
+### Resource Economics at UMass Amerhst
 - Intro Statistics for Business and Economics (RESEC 212): Fall 2014, Spring 2015, Summer 2018
 - Intro Resource Economics (RESEC 102): Fall 2015, Spring 2019
 -  Consumer in Our Society (RESEC 161): Fall 2018
@@ -16,7 +16,7 @@ title: "Teaching"
 *Teaching evaluations are available upon request.*
 
 ## Teaching Assitant 
-### Resource Economics in UMass Amerhst
+### Resource Economics at UMass Amerhst
 - Courses: Intro Statistics for Business and Economics (RESEC 212), Intermediate Statistics for Business and Economics (RESEC 213),
 Industrial Organization in Resource Economics (RESEC 452), Public Policy in Private Markets (RESEC 453)
 
