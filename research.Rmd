@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 ## Working Paper
-- Multi-Unit Ownership and Market Power: A Study of the Texas Hotle Industry [[Job Market Paper]](Draft_Multi_Unit_Ownership_9_26_19.pdf)
+- Multi-Unit Ownership and Market Power: A Study of the Texas Hotel Industry [[Job Market Paper]](Draft_Multi_Unit_Ownership_9_26_19.pdf)
 
 - Multimarket Contact in the Hotel Industry [[Draft]](Draft_MMC_8_26_19.pdf)
 
@@ -11,5 +11,5 @@ title: "Research"
 ## Work in Progress
 - Multimarket Contact on Non-Price Characteristics: Using Consumer Generated Ratings on Hotels
 
-## Publication
+## Publication in Management
 - [Determinant of Operating Lease in the Hotel Industry](https://www.sciencedirect.com/science/article/pii/S0278431909000346), *International Journal of Hospitality Management*, 28, December 2009 (With [SooCheong(Shawn) Jang](https://www.purdue.edu/hhs/htm/directory/faculty/jang_soocheong.html))
