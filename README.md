@@ -1,1 +1,0 @@
-# jhkoh17.github.io
