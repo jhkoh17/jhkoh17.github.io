@@ -6,17 +6,8 @@ title: "Research"
 
 ##### Multimarket Contact, Pricing and Franchising: A Study of the Hotel Industry in Texas (*Job Market Paper*) [[Draft](Koh_MMC.pdf)]
 + Abstract: We investigate the effect of multimarket contact (MMC) on collusive pricing
-in the hotel industry, a setting where most firms often face the same competitors
-in different markets. The paper makes two contributions. First, we allow for
-(partial) vertical control, a feature that is central in this industry given the
-widespread use of franchising and vertical restraints. Specically, we use a
-structural model that estimates the degree of vertical control while, at the
-same time, allowing for joint profit-maximizing behavior that depends on the
-degree of MMC between hotels. Second, as opposed to prior literature, we do
-not use ad-hoc geographic market definitions; instead, we rely on data-driven
-approaches to delineate markets. Counterfactual results show that hotels with
-higher levels of multimarket contact charge higher prices and that the degree
-of vertical control is important in the estimation of this relationship.
+in the hotel industry, a setting where most firms often face the same competitors in different markets. The paper makes two contributions. First, we allow for (partial) vertical control, a feature that is central in this industry given the widespread use of franchising and vertical restraints. Specifically, we use a structural model that estimates the degree of vertical control while, at the same time, allowing for joint profit-maximizing behavior that depends on the
+degree of MMC between hotels. Second, as opposed to prior literature, we do not use ad-hoc geographic market definitions; instead, we rely on data-driven approaches to delineate markets. Counterfactual results show that hotels with higher levels of multimarket contact charge higher prices and that the degree of vertical control is important in the estimation of this relationship.
 
 
 
