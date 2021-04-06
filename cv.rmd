@@ -2,7 +2,5 @@
 title: "CV"
 ---
 
-![](Koh_CV_Academic_March_2021.pdf){width=33%}
-
 #### [Download CV](Koh_CV_Academic_March_2021.pdf)
 
