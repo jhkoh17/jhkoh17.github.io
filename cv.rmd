@@ -2,6 +2,6 @@
 title: "CV"
 ---
 
-![](Koh_CV_Academic_March_2021.pdf){width=100% height=100%}
+![](Koh_CV_Academic_March_2021.pdf){width=100% height=1000}
 
 
