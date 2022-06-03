@@ -5,6 +5,7 @@ title: "Research"
 ## Working Paper
 
 ##### Multimarket Contact, Pricing and Franchising: A Study of the Hotel Industry in Texas (Revision Requested at *the International Journal of Industrial Organization*) [[Draft](Koh_MMC.pdf)]
+
 + Abstract: We investigate the effect of multimarket contact (MMC) on collusive pricing
 in the hotel industry, a setting where most firms often face the same competitors in different markets. The paper makes two contributions. First, we allow for (partial) vertical control, a feature that is central in this industry given the widespread use of franchising and vertical restraints. Specifically, we use a structural model that estimates the degree of vertical control while, at the same time, allowing for joint profit-maximizing behavior that depends on the
 degree of MMC between hotels. Second, as opposed to prior literature, we do not use ad-hoc geographic market definitions; instead, we rely on data-driven approaches to delineate markets. Counterfactual results show that hotels with higher levels of multimarket contact charge higher prices and that the degree of vertical control is important in the estimation of this relationship.
@@ -12,6 +13,7 @@ degree of MMC between hotels. Second, as opposed to prior literature, we do not 
 
 
 ##### [Multi-Unit Ownership and Market Power: A Study of the Texas Hotel Industry (forthcoming) at *Managerial and Decision Economics*]( https://doi.org/10.1002/mde.3657) with [Christian Rojas](https://www.umass.edu/resec/people/rojas) [[Draft](Koh_MUO.pdf)]
+
 - Abstract: As franchisees in the retail and service industries become experienced and acquire local market knowledge, they are likely to own multiple franchised units. Given non (or weak) exclusive clauses in franchising contracts or industry norms, some of these multi-unit owners are affiliated with multiple franchisors. Agency and transaction cost theories, the classic theoretical framework to analyze franchising, cannot explain this type of multi-franchisor affiliation since this type of ownership would create incentive problems across franchisors. Conversely, this paper investigates whether this type of the multi-unit ownership can be explained by the exercise of market power by these franchisees when their units are geographically clustered. This paper uses data on hotels near the interstate highway exits in Texas to test this hypothesis. The results of this paper show that multi-unit owners have contracts with more than one franchisor and that multi-unit owners charge higher prices than single-unit owners. Counterfactual analysis shows that without multi-unit ownership, prices would decrease by 3.91%, on average. This price increase is associated with a volume increase of 7.52%. These results help explain why franchisors might be willing to engage in franchising contracts with franchisees that operate units associated with different franchisors.
 
 
@@ -24,4 +26,4 @@ degree of MMC between hotels. Second, as opposed to prior literature, we do not 
 
 
 ## Publication in Management
-##### [Determinant of Operating Lease in the Hotel Industry](https://www.sciencedirect.com/science/article/pii/S0278431909000346), *International Journal of Hospitality Management*, 28, December 2009 (With [SooCheong(Shawn) Jang](https://www.purdue.edu/hhs/htm/directory/faculty/jang_soocheong.html))
+##### [Determinant of Operating Lease in the Hotel Industry](https://www.sciencedirect.com/science/article/pii/S0278431909000346), (2009) at *International Journal of Hospitality Management* with [SooCheong(Shawn) Jang](https://www.purdue.edu/hhs/htm/directory/faculty/jang_soocheong.html))
