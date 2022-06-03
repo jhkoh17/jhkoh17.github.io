@@ -4,9 +4,9 @@ title: "Teaching"
 
 ## Instructor 
 ### University of Michigan Ann Arbor
-- Introduction to Econometrics (ECON 452): Fall 2021
-- Environmental and Resource Economics (ECON 370): Fall 2021
-- Introduction to Statistics and Econometrics II (ECON 251): Fall 2021
+- Introduction to Econometrics (ECON 452): Fall 2021, Winter 2022
+- Environmental and Resource Economics (ECON 370): Fall 2021, Winter 2022
+- Introduction to Statistics and Econometrics II (ECON 251): Fall 2021, Winter 2022, Spring 2022
 
 
 ### University of Massachusetts Amherst
