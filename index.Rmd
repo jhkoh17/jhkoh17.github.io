@@ -7,38 +7,34 @@ title: "Jung Hwan Koh"
 </center>
 
 ## Welcome! 
-I am a **Lecturer** in [the Department of Economics](https://lsa.umich.edu/econ) at [the University of Michigan Ann Arbor](https://www.umich.edu/).
+I am a **Senior Associate** in [Antitrust and Competition Practice](https://www.crai.com/services/antitrust-and-competition/) at  [Charles River Associates](https://www.crai.com/).
 
-My fields of interest include **Empirical Industrial Organization**, **Applied Microeconomics**, and **Applied Econometrics**.
-
-Currently, I am teaching Econometrics and Environmental/Resource Economics course at U-M. 
+My fields of interest include **Industrial Organization**, **Applied Microeconomics**, and **Applied Econometrics**.
 
 
 <br>
 
 ### Contact Info
-Email: [jhkoh@umich.edu](mailto:jhkoh@umich.edu)  
-Office: Lorch 208, 611 Tappan Ave, Ann Arbor, MI 48109  
-Phone: 734-764-5659
+Email: [jkoh@crai.com](mailto:jkoh@crai.com)  
+Office: 1201 F St NW #800, Washington, DC 20004
 
+<!-- <br> -->
 
-<br>
+<!-- ### Reference -->
+<!-- [Christian Rojas](https://www.umass.edu/resec/people/rojas) (Advisor)   -->
+<!-- Professor   -->
+<!-- Department of Resource Economics   -->
+<!-- University of Massachusetts Amherst   -->
+<!-- Email: [rojas@umass.edu](mailto:rojas@umass.edu)   -->
 
-### Reference
-[Christian Rojas](https://www.umass.edu/resec/people/rojas) (Advisor)  
-Professor  
-Department of Resource Economics  
-University of Massachusetts Amherst  
-Email: [rojas@umass.edu](mailto:rojas@umass.edu)  
+<!-- [Bernard Morzuch](https://www.umass.edu/resec/people/morzuch)   -->
+<!-- Professor   -->
+<!-- Department of Resource Economics   -->
+<!-- University of Massachusetts Amherst   -->
+<!-- Email: [morzuch@resecon.umass.edu](mailto:morzuch@resecon.umass.edu)   -->
 
-[Bernard Morzuch](https://www.umass.edu/resec/people/morzuch)  
-Professor  
-Department of Resource Economics  
-University of Massachusetts Amherst  
-Email: [morzuch@resecon.umass.edu](mailto:morzuch@resecon.umass.edu)  
-
-[Debi Prasad Mohapatra](https://sites.google.com/a/cornell.edu/debi-prasad/)   
-Assistant Professor  
-Department of Resource Economics  
-University of Massachusetts Amherst  
-Email: [dmohapatra@umass.edu](mailto:dmohapatra@umass.edu)  
+<!-- [Debi Prasad Mohapatra](https://sites.google.com/a/cornell.edu/debi-prasad/)    -->
+<!-- Assistant Professor   -->
+<!-- Department of Resource Economics   -->
+<!-- University of Massachusetts Amherst   -->
+<!-- Email: [dmohapatra@umass.edu](mailto:dmohapatra@umass.edu)   -->

@@ -13,7 +13,7 @@
 
 <title>Jung Hwan Koh</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -283,45 +280,35 @@ $(document).ready(function () {
 </center>
 <div id="welcome" class="section level2">
 <h2>Welcome!</h2>
-<p>I am a <strong>Lecturer</strong> in <a
-href="https://lsa.umich.edu/econ">the Department of Economics</a> at <a
-href="https://www.umich.edu/">the University of Michigan Ann
-Arbor</a>.</p>
-<p>My fields of interest include <strong>Empirical Industrial
+<p>I am a <strong>Senior Associate</strong> in <a
+href="https://www.crai.com/services/antitrust-and-competition/">Antitrust
+and Competition Practice</a> at <a href="https://www.crai.com/">Charles
+River Associates</a>.</p>
+<p>My fields of interest include <strong>Industrial
 Organization</strong>, <strong>Applied Microeconomics</strong>, and
 <strong>Applied Econometrics</strong>.</p>
-<p>Currently, I am teaching Econometrics and Environmental/Resource
-Economics course at U-M.</p>
 <p><br></p>
 <div id="contact-info" class="section level3">
 <h3>Contact Info</h3>
-<p>Email: <a href="mailto:jhkoh@umich.edu">jhkoh@umich.edu</a><br />
-Office: Lorch 208, 611 Tappan Ave, Ann Arbor, MI 48109<br />
-Phone: 734-764-5659</p>
-<p><br></p>
-</div>
-<div id="reference" class="section level3">
-<h3>Reference</h3>
-<p><a href="https://www.umass.edu/resec/people/rojas">Christian
-Rojas</a> (Advisor)<br />
-Professor<br />
-Department of Resource Economics<br />
-University of Massachusetts Amherst<br />
-Email: <a href="mailto:rojas@umass.edu">rojas@umass.edu</a></p>
-<p><a href="https://www.umass.edu/resec/people/morzuch">Bernard
-Morzuch</a><br />
-Professor<br />
-Department of Resource Economics<br />
-University of Massachusetts Amherst<br />
-Email: <a
-href="mailto:morzuch@resecon.umass.edu">morzuch@resecon.umass.edu</a></p>
-<p><a href="https://sites.google.com/a/cornell.edu/debi-prasad/">Debi
-Prasad Mohapatra</a><br />
-Assistant Professor<br />
-Department of Resource Economics<br />
-University of Massachusetts Amherst<br />
-Email: <a
-href="mailto:dmohapatra@umass.edu">dmohapatra@umass.edu</a></p>
+<p>Email: <a href="mailto:jkoh@crai.com">jkoh@crai.com</a><br />
+Office: 1201 F St NW #800, Washington, DC 20004</p>
+<!-- <br> -->
+<!-- ### Reference -->
+<!-- [Christian Rojas](https://www.umass.edu/resec/people/rojas) (Advisor)   -->
+<!-- Professor   -->
+<!-- Department of Resource Economics   -->
+<!-- University of Massachusetts Amherst   -->
+<!-- Email: [rojas@umass.edu](mailto:rojas@umass.edu)   -->
+<!-- [Bernard Morzuch](https://www.umass.edu/resec/people/morzuch)   -->
+<!-- Professor   -->
+<!-- Department of Resource Economics   -->
+<!-- University of Massachusetts Amherst   -->
+<!-- Email: [morzuch@resecon.umass.edu](mailto:morzuch@resecon.umass.edu)   -->
+<!-- [Debi Prasad Mohapatra](https://sites.google.com/a/cornell.edu/debi-prasad/)    -->
+<!-- Assistant Professor   -->
+<!-- Department of Resource Economics   -->
+<!-- University of Massachusetts Amherst   -->
+<!-- Email: [dmohapatra@umass.edu](mailto:dmohapatra@umass.edu)   -->
 </div>
 </div>
 
